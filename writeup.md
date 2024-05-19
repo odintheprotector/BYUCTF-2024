@@ -55,8 +55,7 @@ Result: {"version":1,"questions":[{"question":"What was your first pet’s name?
 
 ### Did nobody see: 
 
-They gave us a Windows backup, and it contains prefetch files, windows event log file, some database files... At first I saw many log files, and I think I had to look at it to find the answer. but after about 2 hours, I didn' get anything
-From here I was stuck, very stuck, and fortunately, my "bi quan" brother gave me a hint: 
+They gave us a Windows backup, and it contains prefetch files, windows event log file, some database files... At first I saw many log files, and I think I had to look at it to find the answer, but after about 2 hours, I didn't get anything. From here I was stuck, very stuck, and fortunately, my "bi quan" brother gave me a hint: 
 
 ![image](https://github.com/odintheprotector/BYUCTF-2024/assets/75618225/05af4a93-4208-45df-bad7-0ddb4ed7899f)
 
